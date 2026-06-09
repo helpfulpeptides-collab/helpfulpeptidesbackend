@@ -1,0 +1,11 @@
+{
+  "name": "helpful-peptides-backend",
+  "version": "1.0.0",
+  "description": "Vercel serverless backend for Helpful Peptides Stripe integration",
+  "dependencies": {
+    "stripe": "^14.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
